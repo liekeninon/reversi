@@ -1,2 +1,3 @@
 # reversi
-reversi game with javascript module pattern
+Reversi game with javascript module pattern
+By Lieke de Waal
